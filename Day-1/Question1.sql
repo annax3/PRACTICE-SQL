@@ -99,18 +99,3 @@ mysql> desc BORROW;
 mysql> select * from borrow;
 Empty set (0.00 sec)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
